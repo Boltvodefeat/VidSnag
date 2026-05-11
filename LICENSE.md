@@ -24,7 +24,7 @@ Navigate to the extracted folder → **Run .exe**
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - **Lightning Fast Downloads** - Maximum speed optimization
 - **High Quality Support** - Up to 8K resolution
